@@ -1,0 +1,17 @@
+C:\Users\sasha\source\repos\3_e_zadanie_go1x1noob\3_e_zadanie_go1x1noob\bin\Debug\net6.0-windows\3_e_zadanie_go1x1noob.exe
+C:\Users\sasha\source\repos\3_e_zadanie_go1x1noob\3_e_zadanie_go1x1noob\bin\Debug\net6.0-windows\3_e_zadanie_go1x1noob.deps.json
+C:\Users\sasha\source\repos\3_e_zadanie_go1x1noob\3_e_zadanie_go1x1noob\bin\Debug\net6.0-windows\3_e_zadanie_go1x1noob.runtimeconfig.json
+C:\Users\sasha\source\repos\3_e_zadanie_go1x1noob\3_e_zadanie_go1x1noob\bin\Debug\net6.0-windows\3_e_zadanie_go1x1noob.dll
+C:\Users\sasha\source\repos\3_e_zadanie_go1x1noob\3_e_zadanie_go1x1noob\bin\Debug\net6.0-windows\3_e_zadanie_go1x1noob.pdb
+C:\Users\sasha\source\repos\3_e_zadanie_go1x1noob\3_e_zadanie_go1x1noob\obj\Debug\net6.0-windows\3_e_zadanie_go1x1noob.csproj.AssemblyReference.cache
+C:\Users\sasha\source\repos\3_e_zadanie_go1x1noob\3_e_zadanie_go1x1noob\obj\Debug\net6.0-windows\_3_e_zadanie_go1x1noob.Form1.resources
+C:\Users\sasha\source\repos\3_e_zadanie_go1x1noob\3_e_zadanie_go1x1noob\obj\Debug\net6.0-windows\3_e_zadanie_go1x1noob.csproj.GenerateResource.cache
+C:\Users\sasha\source\repos\3_e_zadanie_go1x1noob\3_e_zadanie_go1x1noob\obj\Debug\net6.0-windows\3_e_zadanie_go1x1noob.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasha\source\repos\3_e_zadanie_go1x1noob\3_e_zadanie_go1x1noob\obj\Debug\net6.0-windows\3_e_zadanie_go1x1noob.AssemblyInfoInputs.cache
+C:\Users\sasha\source\repos\3_e_zadanie_go1x1noob\3_e_zadanie_go1x1noob\obj\Debug\net6.0-windows\3_e_zadanie_go1x1noob.AssemblyInfo.cs
+C:\Users\sasha\source\repos\3_e_zadanie_go1x1noob\3_e_zadanie_go1x1noob\obj\Debug\net6.0-windows\3_e_zadanie_go1x1noob.csproj.CoreCompileInputs.cache
+C:\Users\sasha\source\repos\3_e_zadanie_go1x1noob\3_e_zadanie_go1x1noob\obj\Debug\net6.0-windows\3_e_zadanie_go1x1noob.dll
+C:\Users\sasha\source\repos\3_e_zadanie_go1x1noob\3_e_zadanie_go1x1noob\obj\Debug\net6.0-windows\refint\3_e_zadanie_go1x1noob.dll
+C:\Users\sasha\source\repos\3_e_zadanie_go1x1noob\3_e_zadanie_go1x1noob\obj\Debug\net6.0-windows\3_e_zadanie_go1x1noob.pdb
+C:\Users\sasha\source\repos\3_e_zadanie_go1x1noob\3_e_zadanie_go1x1noob\obj\Debug\net6.0-windows\3_e_zadanie_go1x1noob.genruntimeconfig.cache
+C:\Users\sasha\source\repos\3_e_zadanie_go1x1noob\3_e_zadanie_go1x1noob\obj\Debug\net6.0-windows\ref\3_e_zadanie_go1x1noob.dll
